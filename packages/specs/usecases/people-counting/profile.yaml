@@ -1,0 +1,4 @@
+# placeholder profile for people-counting
+usecase_id: <REPLACE>
+adapter_type: <REPLACE>   # e.g., cctv-rtsp
+# add real fields later (required_capabilities, defaults, policy, artifacts)
