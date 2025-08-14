@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+*.pyc
+.pytest_cache/
+dist/
+build/
+node_modules/
+.DS_Store
+coverage.xml
+.coverage

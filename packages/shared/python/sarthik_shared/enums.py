@@ -1,0 +1,2 @@
+"""Placeholder enums."""
+pass
